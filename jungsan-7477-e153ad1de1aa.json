@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "jungsan-7477",
+  "private_key_id": "e153ad1de1aaaa753200f2b057ae8bedbf0c5c12",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQClBBwk1Xvwsg06\ntWwvwChTcjrNcRTBSzsws4b1kn+l5gffEw3pp9/f4bWiS+bRajh32uvhR+IRkAyp\nGoQVCHtn0nP9UTklNbrS7NXGzTWRIi4OSeV4QPEdrwsdaEjVZBIJv6SiuNhOw7Yt\nZTT8qAUgEitzhYYk0HMttQZrv4Hzg/5bGBUxlQFYfF7ifIWGSQI8ChkTCOev0Ojr\nuvuIoAG4RpdfWbgsG6PaVrrO6DFjOGU/CSV4BFQPok75g6NG6hKnf1+4el0aymnt\nkWGX30P6GhZN07V6GEZUtktL+1MPxmhLDEKvCo4UuRb2F1G4HvcdFqPO0IGjquf4\nM/S2hdRRAgMBAAECggEAJ3TLXvJN05BbUe+ZyfQeIE/GqCNTBWHd6gfvK+5Gx83w\nEWJ+t+EMSn2vXrpb2zRVArGNp5z2vODO6is9LENOMJW1ZrtiWNeXT4JSHlooZgbA\ncOmx7NZIYOLfGz25do6aMosIjGD61aB9wa56pDPvn8rAaXuihtBxzdrESYStx6Ik\nPz73Jg58f094SMiI6F6yOXAhYDhYile0rm7iU6G9MhhdXddcYdEQ3hjwwmA3tG1c\nfo6bW5VVfb3lDzfULK8GQX6IJFxL2MaXU9YH0CXpFcwD94D9knQkKHZD4+lPlv15\nwyZldnQGRXHYNhixEuY6qhuw6sWV7Hgevc7uCCt4/QKBgQDZkWSq2oBqZCYeqMLI\nr/S6nf7Cj3ELbSyeus8ylyatGEtC6a2Xs0CNavHNiFTRy1LSRBPodjw9Gk/6BZQ2\nzUp/9gmydyWMTh02Pp8s6FFw2DTcwVzSuBA6Ww322ir/MjTDPxwMRbOR9PYBqomf\nKVCqxVy7r+Tv/TLm83FEaElsxQKBgQDCKkaaPjjRyUL+EeyVHK507MsogRLgH/zU\nhyUfWhGK1TB6VkUAfoRvUPlxI+jbn4qQUI51GZbVVi8HBVwzAanyo2WygEPsl1SD\nLMDRS2Tp8oFPM+EgSGa7frNhRSRTpfEBifDMf8UwQURGdydUOnJH4JOw0lqq4JcE\nB6D+KA6aHQKBgFmj9/AVGre7D6GuMqLxLEn/csnCw/bLQokbuubDNCI5Ujj9gpJw\nPnaFy569PwU5WqRbfEBZBrS+NJl01v5FUx6pxpELWiMWxB5narnb9kIiMpWJ7a68\nO6NvhK9icDi4/Ng9FldQGI5YeUtyckVrhlr1+iEydYcTsXdKci6XMTlpAoGAWRf8\n/Zm/iMPJMbwXyvQ2OQDO1+8iMiV7Zin9Jr21fvcEH56mWuuy6UFGtFu95cj3U/Ei\n7SioxYueWKJlBCKnUOcZKycgA9gMt4Q5lc/6pj7YhvdPPfj66t3ggamwWZGzXPlm\nvO+EE/he09ao/UU0Wzb5jhF3+SDFKtw1S2omCSECgYBc5B0lp6814sCVKPksbZcO\njWntdadMuct5pe/KgCRMXmanJK4AFNfM/6FRBVu6jbkUn/aqZZEKSTQi3434C8Kc\nAuFsYWIQb+MIiIu0LwcHmk2eeMhfhlRb2rGfFclJIDAJ4fqZmHrK4IvlPrZhePcv\nLtAOABmZ9Byt+t3PqnNhRw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "jungsan@jungsan-7477.iam.gserviceaccount.com",
+  "client_id": "115734463923567477657",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jungsan%40jungsan-7477.iam.gserviceaccount.com"
+}
